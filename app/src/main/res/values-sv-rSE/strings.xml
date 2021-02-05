@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="createButton">Skapa</string>
+    <string name="deleteButton">Ta bort</string>
+    <string name="updateButton">Uppdatera</string>
+    <string name="saveButton">Spara</string>
+    <string name="title">Titel</string>
+    <string name="content">Innehåll</string>
+</resources>

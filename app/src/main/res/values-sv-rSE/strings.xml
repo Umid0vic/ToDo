@@ -7,4 +7,8 @@
     <string name="saveButton">Spara</string>
     <string name="title">Titel</string>
     <string name="content">Innehåll</string>
+    <string name="deleteTitle">Ta bort ToDo</string>
+    <string name="message">Vill du ta bort ToDo?</string>
+    <string name="decline">Nej</string>
+    <string name="accept">Ja</string>
 </resources>

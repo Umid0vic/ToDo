@@ -6,5 +6,10 @@
     <string name="saveButton">Save</string>
     <string name="title">Title</string>
     <string name="content">Content</string>
+    <string name="deleteTitle">Delete ToDo</string>
+    <string name="message">Do you really want to delete this?</string>
+    <string name="decline">No</string>
+    <string name="accept">Yes</string>
+
 
 </resources>
